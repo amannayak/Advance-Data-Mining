@@ -1,5 +1,4 @@
 # Advance-Data-Mining
-Various algorithm related to ADM is implemente using Wika Tool.
+Various algorithm related to ADM is implemente using [Weka 3](https://www.cs.waikato.ac.nz/ml/weka/) Tool.
 
-https://www.cs.waikato.ac.nz/ml/weka/ - automatic!
-[Wika](https://www.cs.waikato.ac.nz/ml/weka/)
+
